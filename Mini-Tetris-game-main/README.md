@@ -29,9 +29,9 @@ connected throughout the game.  </p>
 <h3> Case when the right-side block matches with the current block: </h3> 
 <img src = Mini-Tetris-game-main/Application%20Screenshots/img1.png width="500" height="316" >
 <h3> Case when the left-side block matches with the current block: </h3>
-<img src ="Mini-Tetris-game-main/Application%20Screenshots/img2.png"  width="500" height="316" >
+<img src = Mini-Tetris-game-main/Application%20Screenshots/img2.png  width="500" height="316" >
 <h3> Case when the bottom-block matches with the current block: </h3>
-<img src = "Mini-Tetris-game-main/Application%20Screenshots/img3.png" width="500" height="316" >
+<img src = Mini-Tetris-game-main/Application%20Screenshots/img3.png width="500" height="316" >
 <h3> Multiple matchings of blocks consecutively: </h3>
 <img src = "Mini-Tetris-game-main/Application%20Screenshots/img4.png" width="500" height="316" >
 <h3> Scoring (Case when 2 blocks match): </h3>
