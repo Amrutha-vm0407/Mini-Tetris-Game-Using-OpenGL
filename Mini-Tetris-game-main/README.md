@@ -27,7 +27,7 @@ connected throughout the game.  </p>
 <h2> I/O Screenshots of the application </h2>
 
 <h3> Case when the right-side block matches with the current block: </h3> 
-<img src = Mini-Tetris-game-main/Application%20Screenshots/img1.png width="500" height="316" >
+<img src = https://github.com/Amrutha-vm0407/Mini-Tetris-Game-Using-OpenGL/blob/main/Mini-Tetris-game-main/Application%20Screenshots/img1.png width="500" height="316" >
 <h3> Case when the left-side block matches with the current block: </h3>
 <img src = Mini-Tetris-game-main/Application%20Screenshots/img2.png  width="500" height="316" >
 <h3> Case when the bottom-block matches with the current block: </h3>
